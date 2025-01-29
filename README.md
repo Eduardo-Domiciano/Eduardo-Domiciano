@@ -1,6 +1,6 @@
 <img src='https://github.com/DuDSTOPIA/DuDSTOPIA/blob/main/profile%20github.png'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tillana&size=40&center=true&vcenter=true&multiline=true&height=190&width=1600&lines=Buscando+conhecimanto,;mas+não+muito...;Se+não+eu+fico+triste.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Tillana&size=40&center=true&vcenter=true&multiline=true&height=190&width=1600&lines=Buscando+conhecimento,;mas+não+muito...;Se+não+eu+fico+triste.)](https://git.io/typing-svg)
 
 # I'm here!
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eduardo.domiciano/)
